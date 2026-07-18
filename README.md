@@ -16,9 +16,9 @@
 <tr>
 <td align="center">
 
-### 🚀 I build marketing systems where **data · AI · creativity** move real business metrics
+### I build marketing systems where **data / AI / creativity** move real business metrics
 
-**average check → traffic → retention → LTV**
+**average check - traffic - retention - LTV**
 
 </td>
 </tr>
@@ -42,13 +42,13 @@
 <!-- WHO -->
 <h2>💡 WHO AM I</h2>
 
-> Over **2.5+ years** leading performance & digital marketing for regional retail, service and telecom brands — from a **5-location spa chain** to a **265-store retail network** and now a **regional telecom operator**.  
+> Over **2.5+ years** leading performance & digital marketing for regional retail, service and telecom brands - from a **5-location spa chain** to a **265-store retail network** and now a **regional telecom operator**.  
 >  
-> I work at the intersection of **strategy · analytics · hands-on execution** — building marketing from scratch, managing paid budgets, and shipping what's needed today.  
+> I work at the intersection of **strategy / analytics / hands-on execution** - building marketing from scratch, managing paid budgets, and shipping what's needed today.  
 >  
-> I use **AI as a real productivity driver** — not "good morning" animated cards, but a genuine way to speed up processes and improve results. I build custom AI agents for analytics & content, and train non-technical colleagues to use them.  
+> I use **AI as a real productivity driver** - not "good morning" animated cards, but a genuine way to speed up processes and improve results. I build custom AI agents for analytics & content, and train non-technical colleagues to use them.  
 >  
-> 🎓 Diploma in Internet Marketing — **Yandex Educational Technologies**.
+> 🎓 Diploma in Internet Marketing - **Yandex Educational Technologies**.
 
 <br/>
 
@@ -59,37 +59,37 @@
 
 <tr>
 <td width="30%"><b>📈 Performance & Ads</b></td>
-<td>SEO · GEO/AEO · PPC · Yandex.Direct · Telegram Ads · VK Ads · MTS · Google Ads · eLama · A/B Testing</td>
+<td>SEO / GEO/AEO / PPC / Yandex.Direct / Telegram Ads / VK Ads / MTS / Google Ads / Meta Ads / eLama / A/B Testing</td>
 </tr>
 
 <tr>
 <td><b>📊 Analytics</b></td>
-<td>Yandex.Metrica · Google Analytics · CallTouch · Tgstat · BI Dashboards (Qlik) · UTM · Cohort & Funnel Analysis · Sales/SKU analytics (1C)</td>
+<td>Yandex.Metrica / Google Analytics / CallTouch / Tgstat / BI Dashboards (Qlik) / UTM / Cohort & Funnel Analysis / Sales/SKU analytics (1C)</td>
 </tr>
 
 <tr>
 <td><b>🤝 CRM & Automation</b></td>
-<td>AmoCRM · YClients · RetailCRM · Set Retail · 1C · YouGile · Trigger Flows · Chat/WhatsApp Bots</td>
+<td>AmoCRM / YClients / RetailCRM / Set Retail / 1C / YouGile / Trigger Flows / Chat/WhatsApp Bots</td>
 </tr>
 
 <tr>
 <td><b>🌐 SEO & Sites</b></td>
-<td>1C-Bitrix · WordPress · Tilda · Wildberries · Ozon · Mobile App</td>
+<td>1C-Bitrix / WordPress / Tilda / Next.js / Mobile App</td>
 </tr>
 
 <tr>
 <td><b>🎨 Content & Design</b></td>
-<td>Adobe Photoshop · Illustrator · Acrobat · CorelDraw · POS materials · Catalogs · Banners</td>
+<td>Adobe Photoshop / Illustrator / Acrobat / CorelDraw / POS materials / Catalogs / Banners and much more</td>
 </tr>
 
 <tr>
 <td><b>🤖 AI / GenAI</b></td>
-<td>GPT · Claude · DeepSeek · Grok · Qwen · MidJourney · Stable Diffusion · Flux · Kling · Nano Banana · Seedance · Suno · ElevenLabs · Custom AI Agents</td>
+<td>GPT / Claude / DeepSeek / Grok / Qwen / MidJourney / Stable Diffusion / Flux / Kling / Nano Banana / Seedance / Suno / ElevenLabs / Custom AI Agents</td>
 </tr>
 
 <tr>
 <td><b>🏆 Brand & Strategy</b></td>
-<td>Rebranding · Tone of Voice · Reputation Management · Loyalty Programs · Partnership Marketing · Event Marketing</td>
+<td>Rebranding / Tone of Voice / Reputation Management / Loyalty Programs / Partnership Marketing / Event Marketing</td>
 </tr>
 
 </table>
@@ -104,7 +104,7 @@
 <tr>
 <td width="28%"><strong>🟢 NOW</strong><br/><code>2026 →</code></td>
 <td>
-<strong>JSC TATTELECOM</strong> · Lead Internet Marketing Manager<br/>
+<strong>JSC TATTELECOM</strong> / Lead Internet Marketing Manager<br/>
 <sub>Regional telecom operator (internet & mobile)</sub>
 <ul>
 <li>Rebuilt analytics on <strong>Qlik</strong> dashboards w/ API integration → real-time metrics</li>
@@ -118,7 +118,7 @@
 <tr>
 <td><strong>RUSALKA</strong><br/><code>10 mo</code></td>
 <td>
-<strong>Senior Marketing Manager</strong> · 265-store convenience chain
+<strong>Senior Marketing Manager</strong> / 265-store convenience chain
 <ul>
 <li>⭐ Rating <strong>2.5–2.8 → 4.5–5.0</strong> across all 265 stores (Yandex Maps · 2GIS)</li>
 <li>Led full <strong>rebranding</strong> — brand book, ToV, visual identity, POS, scripts → rolled out to 265 locations</li>
@@ -135,7 +135,7 @@
 <tr>
 <td><strong>MARKO</strong><br/><code>5 mo</code></td>
 <td>
-<strong>Lead Marketing Manager</strong> · retail across 7 cities
+<strong>Lead Marketing Manager</strong> / retail across 7 cities
 <ul>
 <li>Yandex.Direct (~<strong>$1.7k+/mo</strong>) → <strong>CPC −16%, CTR +9%</strong>; automated bidding via eLama</li>
 <li>Website <strong>top-5 → top-2</strong> for key queries (1C-Bitrix SEO)</li>
@@ -149,7 +149,7 @@
 <tr>
 <td><strong>HEALTHY BODY</strong><br/><code>1 y 4 mo</code></td>
 <td>
-<strong>Marketing Manager</strong> · 5 spa centers
+<strong>Marketing Manager</strong> / 5 spa centers
 <ul>
 <li>Managed ~<strong>$1.9k/mo</strong> across Yandex.Direct + Telegram Ads (VK/MTS tests)</li>
 <li>Cost per lead <strong>$2.8–4.5</strong> via end-to-end analytics (CallTouch + AmoCRM)</li>
@@ -178,14 +178,13 @@
 
 ## 📬 LET'S CONNECT
 
-[![Email](https://img.shields.io/badge/sennikow.n@yandex.ru-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)](mailto:sennikow.n@yandex.ru)
 [![Gmail](https://img.shields.io/badge/n.sennikovv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.sennikovv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikkkk1)
 [![Telegram](https://img.shields.io/badge/@n__sennikov-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n_sennikov)
 
 <br/>
 
-<sub>⚡ ` marketing = system · data · AI · creativity → real metrics ` ⚡</sub>
+<sub>⚡ ` marketing = system - data - AI - creativity → real metrics ` ⚡</sub>
 
 </div>
 
